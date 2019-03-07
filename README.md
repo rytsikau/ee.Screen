@@ -15,9 +15,11 @@
 <br>*"<thisScriptDir>\eeShot\<flatUrl>.<ext>"* - for path and filename of shot;
 <br>*1280*full* - for resolution;
 <br>*jpg,pdf,png,txt* - for formats.
+<br>
 <br>Examples of lines:
-<br>*https://www.google.com;"C:\screenshots\";1024*768;jpg*
-<br>*pdf,txt;https://www.bbc.co.uk/news;1920*full*
+<br>*https://www.google.com;"C:\screenshots\";1024\*768;jpg*
+<br>*pdf,txt;https://www.bbc.co.uk/news;1920\*full*
+<br>
 <br>Shots in pdf and txt saves full document - txt according to html-markup, pdf - in A4 scaled as 100%.
 <br>Existing shots are skipped, new ones are not made.
 ********************************************************************************************************/
