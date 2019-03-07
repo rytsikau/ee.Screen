@@ -1,3 +1,4 @@
+<addr>
 /********************************************************************************************************
 <br>eeShot.js: shots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
 <br>y.rytsikau@gmail.com, 2019-03-06
@@ -23,3 +24,4 @@
 <br>Shots in pdf and txt saves full document - txt according to html-markup, pdf - in A4 scaled as 100%.
 <br>Existing shots are skipped, new ones are not made.
 ********************************************************************************************************/
+</addr>
