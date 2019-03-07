@@ -1,10 +1,9 @@
-printf()
-/********************************************************************************************************
-eeShot.js: shots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
-y.rytsikau@gmail.com, 2019-03-06
-
-Using from command line:
-   node "c:\path\to\eeShot.js" "c:\path\to\someListWithUrls.anyTextFile"
+    /********************************************************************************************************
+    eeShot.js: shots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
+    y.rytsikau@gmail.com, 2019-03-06
+    
+    Using from command line:
+       node "c:\path\to\eeShot.js" "c:\path\to\someListWithUrls.anyTextFile"
 If list has name "list.txt", and located in one directory with this script, second parameter is optional:
    node eeShot.js
 File "list.txt" must be encoded in UTF-8, format of line is next:
