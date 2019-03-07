@@ -1,5 +1,5 @@
-    /********************************************************************************************************
-    eeShot.js: shots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
+    /**********************************************************************************************************
+    eeShot.js: Screenshots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
     y.rytsikau@gmail.com, 2019-03-06
     
     Using from command line:
@@ -12,9 +12,12 @@
        "<thisScriptDir>\eeShot\<flatUrl>.<ext>" - for path and filename of shot;
        1280*full - for resolution;
        jpg,pdf,png,txt - for formats.
-    Examples of lines:
-       https://www.google.com;"C:\screenshots\";1024*768;jpg
+    Shots in PDF and TXT saves full document - TXT according to HTML-markup, PDF - to A4 scaled as 100%.
+    To make PDF shot in landscape orientation, write "Lpdf" instead of "pdf" in the field of need formats.
+    Existing shots are skipped, new ones in that case will not be made.
+    
+    Example of list' content:
+       https://www.google.com;"C:\My Screenshots\";1024*768;jpg,Lpdf
        pdf,txt;https://www.bbc.co.uk/news;1920*full
-    Shots in pdf and txt saves full document - txt according to html-markup, pdf - in A4 scaled as 100%.
-    Existing shots are skipped, new ones are not made.
-    ********************************************************************************************************/
+    
+    **********************************************************************************************************/
