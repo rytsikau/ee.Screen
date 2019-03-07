@@ -1,4 +1,4 @@
-`printf()`
+printf()
 /********************************************************************************************************
 eeShot.js: shots in JPG/PDF/PNG/TXT(utf-8) formats for the list of urls (needs Node.js and Puppeteer)
 y.rytsikau@gmail.com, 2019-03-06
