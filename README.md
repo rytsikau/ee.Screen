@@ -17,7 +17,7 @@
     Existing shots are skipped, new ones in that case will not be made.
     
     Example of list' content:
-       https://www.google.com;"C:\My Screenshots\123.~~~";1024*768;jpg,Lpdf
+       https://www.google.com/;"C:\My Screenshots\123.~~~";1024*768;jpg,Lpdf
        https://github.com
        txt,pdf;1920*full;https://www.bbc.co.uk/news
     
