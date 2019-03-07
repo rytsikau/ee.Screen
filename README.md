@@ -9,7 +9,7 @@
 <br>*node eeShot.js*
 <br>
 <br>File "list.txt" must be encoded in UTF-8, format of line is next:
-<br>*<url>;"<path>\<to>\<shotFile>.ext";width*height;commaSeparatedFormatsToDo*
+<br>*\<url\>;"<path>\<to>\<shotFile>.ext";width\*height;commaSeparatedFormatsToDo*
 <br>
 <br>Order of values in line does not matter. All values except <url> are optional, default values are:
 <br>*"<thisScriptDir>\eeShot\<flatUrl>.<ext>"* - for path and filename of shot;
