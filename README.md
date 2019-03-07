@@ -3,9 +3,9 @@
 <br>y.rytsikau@gmail.com, 2019-03-06
 <br>
 <br>Using from command line:
-<br>node "c:\path\to\eeShot.js" "c:\path\to\someListWithUrls.anyTextFile"
+<br>*node "c:\path\to\eeShot.js" "c:\path\to\someListWithUrls.anyTextFile"*
 <br>If list has name "list.txt", and located in one directory with this script, second parameter is optional:
-<br>node eeShot.js
+<br>*node eeShot.js*
 <br>File "list.txt" must be encoded in UTF-8, format of line is next:
 <br><url>;"<path>\<to>\<shotFile>.ext";width*height;commaSeparatedFormatsToDo
 <br>Order of values in line does not matter. All values except <url> are optional, default values are:
