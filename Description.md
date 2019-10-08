@@ -2,6 +2,7 @@
 The utility allows to take many screenshots of web pages according to the list of URLs.<br>
 Multiple formats supported - JPG, PDF, PNG and TXT.<br>
 ##
+<br>
 ## Version
 20190322<br>
 <br>
