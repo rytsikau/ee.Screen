@@ -36,11 +36,12 @@ Format of line is next:
 ```
 url;"path\to\screenshot.*";width*height;commaSeparatedFormats
 ```
-Order of values in line does not matter.<br>
+Order of values in line does not matter.<br><br>
 All values except *url* are optional, default values are:<br>
 "..\ee.Screen\screenshots\" - path for screenshots;<br>
-*\<flaturl\>* - for filenames;<br>
-jpg,pdf,png,txt - for formats; 1280*full - for resolution.<br>
+*\<flaturl\>.<extension>* - filename;<br>
+jpg,pdf,png,txt - formats;<br>
+1280*full - resolution.<br><br>
 "Full" means that screenshot will be taken to the full height of page.<br>
 Screenshots in PDF and TXT always have full page height:<br>
 PDF - paginated into A4 with a 100% scale, TXT - in accordance with the HTML markup.<br>
