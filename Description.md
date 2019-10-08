@@ -40,7 +40,7 @@ url;"path\to\screenshot.*";width*height;commaSeparatedFormats
 Order of values in line does not matter.<br>
 All values except *url* are optional, default values are:
 - "..\ee.Screen\screenshots\" - path for screenshots;<br>
-- \<flaturl\>.<extension> - filename;<br>
+- \<flaturl\> - filename;<br>
 - jpg,pdf,png,txt - formats;<br>
 - 1280*full - resolution.<br>
 
