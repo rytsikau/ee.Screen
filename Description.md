@@ -1,24 +1,24 @@
 # ee.Screen
 This utility allows to take many screenshots of web pages according to the list of URLs.
 Multiple formats supported - JPG, PDF, PNG and TXT.
-&nbsp;
+<br>
 
 ## Version
 20190322
-&nbsp;
+<br>
 
 ## System requirements
 Node.js, Google Chrome Puppeteer
-&nbsp;
+<br>
 
 ## Tested Configuration
 Microsoft Windows 10 Pro x64 (build 18362.356), Node.js 10.14.2 (x64), Google Chrome Puppeteer 1.11.0
-&nbsp;
+<br>
 
 ## Installation
 To install Node.js, visit page https://nodejs.org
 To install Puppeteer, after installing Node.js, open Windows command line, and type "npm install --save puppeteer"
-&nbsp;
+<br>
 
 ## Usage
 From Windows command line:
@@ -26,7 +26,7 @@ From Windows command line:
 node "c:\path\to\ee.Screen.js" "c:\path\to\someListWithUrls.textFile"
 ```
 If list has name "list.txt", and located in the same directory with script, simply run "start.bat".
-&nbsp;
+<br>
 
 ## List' content
 Example:
@@ -50,7 +50,7 @@ PDF - paginated into A4 with a 100% scale, TXT - in accordance with the HTML mar
 To make PDF screenshot in landscape orientation, write "Lpdf" instead of "pdf" in the field of need formats.
 Encoding of TXT screenshot - UTF8.
 Existing screenshots will be skipped, new ones will not be made in this case.
-&nbsp;
+<br>
 
 ## Author
 * [**Yauheni Rytsikau**](https://github.com/rytsikau)
