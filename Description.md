@@ -42,7 +42,7 @@ All values except *url* are optional, default values are:
 - \<flaturl\>.<extension> - filename;<br>
 - jpg,pdf,png,txt - formats;<br>
 - 1280*full - resolution.<br>
-<a/>"Full" means that screenshot will be taken to the full height of page.<br>
+[//]: # (Hello)"Full" means that screenshot will be taken to the full height of page.<br>
 Screenshots in PDF and TXT always have full page height:<br>
 PDF - paginated into A4 with a 100% scale, TXT - in accordance with the HTML markup.<br>
 To make PDF screenshot in landscape orientation, write "Lpdf" instead of "pdf" in the field of need formats.<br>
