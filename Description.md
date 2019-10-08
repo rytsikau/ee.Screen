@@ -27,7 +27,7 @@ From Windows command line:
 ```
 node "c:\path\to\ee.Screen.js" "c:\path\to\someListWithUrls.textFile"
 ```
-If list has name "list.txt", and it located in the same directory as the script, just run "start.bat".
+If list has name *list.txt*, and it located in the same directory as the script, just run *start.bat*.
 <br><br>
 
 ## List' content
