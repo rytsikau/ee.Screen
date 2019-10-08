@@ -21,18 +21,17 @@ To install Puppeteer, after installing Node.js, open Windows command line, and t
 ```
 npm install --save puppeteer
 ```
-<br><br>
+<br>
 
 ## Usage
 From Windows command line:
 ```
 node "c:\path\to\ee.Screen.js" "c:\path\to\someListWithUrls.textFile"
 ```
-If list has name "list.txt", and located in the same directory with script, simply run "start.bat".
+If list has name "list.txt", and it located in the same directory as the script, just run "start.bat".
 <br><br>
 
 ## List' content
-Example:
 ```
 https://www.google.com/;"C:\My Screenshots\123.*";1024*768;jpg,Lpdf
 https://github.com
