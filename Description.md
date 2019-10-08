@@ -41,8 +41,9 @@ Format of line is next:
 ```
 url;"path\to\screenshot.*";width*height;commaSeparatedFormats
 ```
-Order of values in line does not matter. All values except *url* are optional, default values are:
-"..\ee.Screen\screenshots.*" - for path and name of screenshot file(s);
+Order of values in line does not matter.<br>
+All values except *url* are optional, default values are:<br>
+"..\ee.Screen\screenshots.\*" - for path and name of screenshot file(s);
 jpg,pdf,png,txt - for formats;
 1280*full - for resolution.
 "Full" means that screenshot will be taken to the full height of page.
