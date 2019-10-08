@@ -4,7 +4,7 @@ This utility allows to make a lot of webpage screenshots based on the list of UR
 Multiple formats supported - JPG, PDF, PNG and TXT.
 
 ## Version
-20191008
+20190322
 
 ## System requirements
 Node.js, Google Chrome Puppeteer
