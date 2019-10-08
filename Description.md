@@ -1,5 +1,5 @@
 # ee.Screen
-This utility allows to take many screenshots of web pages according to the list of URLs.<br>
+The utility allows to take many screenshots of web pages according to the list of URLs.<br>
 Multiple formats supported - JPG, PDF, PNG and TXT.
 <br><br>
 
@@ -21,7 +21,6 @@ To install Puppeteer, after installing Node.js, open Windows command line, and t
 ```
 npm install --save puppeteer
 ```
-<br>
 
 ## Usage
 From Windows command line:
@@ -37,12 +36,12 @@ https://www.google.com/;"C:\My Screenshots\123.*";1024*768;jpg,Lpdf
 https://github.com
 txt,pdf;1920*full;https://www.bbc.co.uk/news
 ```
-File of list must be encoded with any type of unicode, if it has non-latin letters.
+File of list must be encoded with any type of unicode, if it has non-latin letters.<br>
 Format of line is next:
 ```
 url;"path\to\screenshot.*";width*height;commaSeparatedFormats
 ```
-Order of values in line does not matter. All values except "url" are optional, default values are:
+Order of values in line does not matter. All values except *url* are optional, default values are:
 "..\ee.Screen\screenshots.*" - for path and name of screenshot file(s);
 jpg,pdf,png,txt - for formats;
 1280*full - for resolution.
