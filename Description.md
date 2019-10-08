@@ -1,6 +1,6 @@
 ﻿# ee.Screen
 
-This utility allows to make a lot of webpage screenshots according to the list of URLs.
+This utility allows to make a lot of webpage screenshots according to the list of URLs. 
 Multiple formats supported - JPG, PDF, PNG and TXT.
 
 ## Version
