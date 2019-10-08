@@ -1,5 +1,5 @@
 # ee.Screen
-This utility allows to take many screenshots of web pages according to the list of URLs.
+This utility allows to take many screenshots of web pages according to the list of URLs.<br>
 Multiple formats supported - JPG, PDF, PNG and TXT.
 <br><br>
 
@@ -16,8 +16,11 @@ Microsoft Windows 10 Pro x64 (build 18362.356), Node.js 10.14.2 (x64), Google Ch
 <br><br>
 
 ## Installation
-To install Node.js, visit page https://nodejs.org
-To install Puppeteer, after installing Node.js, open Windows command line, and type "npm install --save puppeteer"
+To install Node.js, visit page https://nodejs.org <br>
+To install Puppeteer, after installing Node.js, open Windows command line, and type
+```
+npm install --save puppeteer
+```
 <br><br>
 
 ## Usage
