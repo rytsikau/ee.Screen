@@ -11,7 +11,7 @@ Multiple formats supported - JPG, PDF, PNG and TXT.
 <br><br>
 
 ## Version
-20191008<br>
+20200210<br>
 <br>
 ## System requirements
 Node.js, Google Chrome Puppeteer<br>
