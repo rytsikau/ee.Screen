@@ -46,9 +46,9 @@ txt,pdf;https://www.bbc.co.uk/news
 * Order of values in line does not matter
 * Quotation marks are required
 * All values except *url* are optional, default values are:
-    - *"..\ee.Screen\screenshots\\<flaturl\>.<extension\>"* - path for screenshots and filename
+    - *ee.Screen\screenshots\\<flaturl\>.<extension\>* - path for screenshots and filename
     - *1280\*fullHeightOfPage* - resolution
-    - *png* - format
+    - *png* - extension
 * Screenshots in PDF and TXT always have full page height (PDF - paginated into A4 with a 100% scale, TXT - in accordance with the HTML markup)
 * To make PDF screenshot in landscape orientation, write "Lpdf" instead of "pdf" in the field of need formats
 * Encoding of TXT screenshots - UTF8
