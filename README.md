@@ -36,7 +36,7 @@ Format of line is next:
 ```
 url;"path\to\screenshots\filename.*";width*height;commaSeparatedFormats
 ```
-Line examples:
+Examples:
 ```
 https://www.google.com/;"C:\My Screenshots\123.*";1024*768;jpg,Lpdf
 https://github.com
