@@ -29,7 +29,7 @@ npm install --save puppeteer
 <br>
 
 ## Usage information
-File of URLs' list must be encoded with any type of unicode, if it has non-latin letters<br>
+File with urls must be encoded with any type of unicode, if it has non-latin letters<br>
 Running from Windows command line:
 ```
 node "c:\path\to\ee.Screen.js" "c:\path\to\some\list.txt"
