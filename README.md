@@ -33,11 +33,11 @@ File with URLs must be encoded with any type of unicode, if it has non-latin let
 ```
 node "c:\path\to\ee.Screen.js" "c:\path\to\some\list.txt"
 ```
-If list has name *list.txt*, and it located in the same directory as the script, just run *start.bat*<br>
+If file has name *list.txt*, and it located in the same directory as the script, just run *start.bat*<br>
 <br>
 
 ## List format description
-Examples:
+Line examples:
 ```
 https://www.google.com/;"C:\My Screenshots\123.*";1024*768;jpg,Lpdf
 https://github.com
