@@ -7,15 +7,6 @@ This script allows to take screenshots of web pages according to the list of URL
 3. Run *start.bat*
 4. See screenshots in *ee.Screen\screenshots* directory
 
-## Requirements
-* Node.js
-* Google Chrome Puppeteer
-
-## Tested Configuration
-* Microsoft Windows 10 Pro x64 1903
-* Node.js 10.16.3 x64
-* Google Chrome Puppeteer 1.20.0
-
 ## Installation
 To install Node.js, visit page https://nodejs.org
 
@@ -53,6 +44,15 @@ txt,pdf;https://www.bbc.co.uk/news
 * To make PDF screenshot in landscape orientation, write "Lpdf" instead of "pdf" in the field of need formats
 * Encoding of TXT screenshots - UTF8
 * Existing screenshots will be skipped, new ones will not be made in this case
+
+## Requirements
+* Node.js
+* Google Chrome Puppeteer
+
+## Tested Configuration
+* Microsoft Windows 10 Pro x64 1903
+* Node.js 10.16.3 x64
+* Google Chrome Puppeteer 1.20.0
 
 ## Developer information
 * JavaScript
