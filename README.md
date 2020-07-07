@@ -1,12 +1,6 @@
 # ee.Screen - version 20200210
 This script allows to take screenshots of web pages according to the list of URLs. Multiple formats supported - JPG, PDF, PNG and TXT
 
-## Quick Start
-1. Open the *list.txt* file in a text editor
-2. Paste your list of URLs there, instead of existing sample lines
-3. Run *start.bat*
-4. See screenshots in *ee.Screen\screenshots* directory
-
 ## Installation
 To install Node.js, visit page https://nodejs.org
 
@@ -14,6 +8,12 @@ To install Puppeteer, after installing Node.js open Windows command line, and ty
 ```
 npm install --save puppeteer
 ```
+
+## Quick Start
+1. Open the *list.txt* file in a text editor
+2. Paste your list of URLs there, instead of existing sample lines
+3. Run *start.bat*
+4. See screenshots in *ee.Screen\screenshots* directory
 
 ## Usage information
 File with URLs must be encoded with any type of unicode, if it has non-latin letters. Running from Windows command line:
