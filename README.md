@@ -1,4 +1,5 @@
-# ee.Screen
+ee.Screen
+==================================================
 version 20200210
 
 This script allows to take screenshots of web pages according to the list of URLs. Multiple formats supported - JPG, PDF, PNG and TXT
