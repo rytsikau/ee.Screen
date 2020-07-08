@@ -1,13 +1,12 @@
-ee.Screen
-==================================================
-version 20200210
-
+# ee.Screen
 This script allows to take screenshots of web pages according to the list of URLs. Multiple formats supported - JPG, PDF, PNG and TXT
 
-## Installation
-To install Node.js, visit page [nodejs.org](https://nodejs.org)
+[>> download version 20200210](https://github.com/rytsikau/ee.Screen/archive/master.zip)
 
-To install Puppeteer, after installing Node.js open Windows command line, and type
+## Requirements
+Microsoft Windows, Node.js, Google Chrome Puppeteer
+* To install Node.js, visit page [nodejs.org](https://nodejs.org)
+* To install Puppeteer, after installing Node.js open Windows command line, and type
 ```
 npm install --save puppeteer
 ```
@@ -48,10 +47,6 @@ txt,pdf;https://www.bbc.co.uk/news
 * Encoding of TXT screenshots - UTF8
 * Existing screenshots will be skipped, new ones will not be made in this case
 
-## Requirements
-* Node.js
-* Google Chrome Puppeteer
-
 ## Tested Configuration
 * Microsoft Windows 10 Pro x64 1903
 * Node.js 10.16.3 x64
@@ -62,4 +57,7 @@ txt,pdf;https://www.bbc.co.uk/news
 * Visual Studio Code 1.30
 
 ## Author
-* [**Yauheni Rytsikau (Eugen Rytikov)**](https://github.com/rytsikau)
+[(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
+
+---
+[rytsikau.github.io](https://rytsikau.github.io)
