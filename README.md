@@ -1,8 +1,10 @@
-# ee.Screen - version 20200210
+# ee.Screen
+version 20200210
+
 This script allows to take screenshots of web pages according to the list of URLs. Multiple formats supported - JPG, PDF, PNG and TXT
 
 ## Installation
-To install Node.js, visit page https://nodejs.org
+To install Node.js, visit page [nodejs.org](https://nodejs.org)
 
 To install Puppeteer, after installing Node.js open Windows command line, and type
 ```
