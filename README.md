@@ -1,7 +1,7 @@
 # ee.Screen
 This script allows to take screenshots of web pages according to the list of URLs. Multiple formats supported - JPG, PDF, PNG and TXT
 
-[>> download version 20200210](https://github.com/rytsikau/ee.Screen/archive/master.zip)
+[>> download version 20200210](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20200210.zip)
 
 ## Requirements
 Microsoft Windows, Node.js, Google Chrome Puppeteer
