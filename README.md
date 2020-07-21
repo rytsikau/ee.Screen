@@ -63,4 +63,4 @@ automated-screenshots bulk-screenshots javascript screenshot-generator screensho
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
 ---
-[page on github.io](https://rytsikau.github.io/ee.Screen)
+>> [page on github.io](https://rytsikau.github.io/ee.Screen)
