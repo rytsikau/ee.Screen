@@ -56,8 +56,11 @@ txt,pdf;https://www.bbc.co.uk/news
 * JavaScript
 * Visual Studio Code 1.30
 
+## Tags
+automated-screenshots bulk-screenshots javascript screenshot-generator screenshot-jpeg screenshot-list-urls screenshot-pdf screenshot-png screenshot-utility screenshot-webpages screenshots screenshotting
+
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
 ---
-[rytsikau.github.io](https://rytsikau.github.io)
+[page on github.io](https://rytsikau.github.io/ee.Screen)
