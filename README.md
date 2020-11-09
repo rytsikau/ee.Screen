@@ -2,6 +2,7 @@
 
 This script allows you to take screenshots of web pages according to a list of URLs. Several formats are supported - JPG, PDF, PNG and TXT.
 
+
 ### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20201108.zip)
 
 
@@ -36,9 +37,9 @@ The file line format is as follows:
 All values except 'url' are optional, default values are:
 
 ```
-..\screenshots\[flaturl].*    - screenshot has 'flat' url as filename
-1280*full                     - width is 1280p, height - full page height
-png                           - screenshot format
+..\screenshots\[flaturl].*   - screenshot has 'flat' url as filename
+1280*full                    - width is 1280p, height - full page height
+png                          - screenshot format
 ```
 
 * Encoding of TXT screenshots is UTF8
