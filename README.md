@@ -92,4 +92,4 @@ automated-screenshot bulk-screenshot google-chrome-puppeteer puppeteer screensho
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
 ---
-[[program page]](https://rytsikau.github.io/ee.screen) [[start page]](https://rytsikau.github.io)
+[[program page]](https://rytsikau.github.io/ee.Screen) [[start page]](https://rytsikau.github.io)
