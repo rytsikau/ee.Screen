@@ -2,6 +2,7 @@
 
 This script allows you to take screenshots of web pages according to a list of URLs. Several formats are supported - JPG, PDF, PNG and TXT.
 
+
 ### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20201108.zip)
 
 
@@ -51,15 +52,19 @@ png                          - screenshot format
 Examples:
 
 >     https://github.com
+
 * saves screenshot as *..\screenshots\https_github.com_.png* with 1280p width and full page height
 
 >     txt,pdf;https://www.bbc.co.uk/news
+
 * saves two screenshots of TXT and PDF formats in the same directory
 
 >     https://hp.com/;jpg,Lpdf;1024*768
+
 * saves part of the page as JPG screenshot with a resolution of 1024*768, and the whole page as PDF screenshot in landscape orientation
 
 >     1920*full;"C:\My Screenshots\123.*";https://www.ebay.com/;png
+
 * saves PNG screenshot with 1920p width and full page height in the *C:\My Screenshots* directory with the name *123.png*
 
 
