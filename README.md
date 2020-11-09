@@ -1,8 +1,9 @@
-# ee.Screen 
+# ee.Screen
 
 This script allows you to take screenshots of web pages according to a list of URLs. Several formats are supported - JPG, PDF, PNG and TXT.
 
-### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/blob/master/ee.Screen_20201108.zip)
+
+### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20201108.zip)
 
 
 
