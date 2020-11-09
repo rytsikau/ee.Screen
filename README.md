@@ -51,21 +51,17 @@ png                          - screenshot format
 
 Examples:
 
->     https://github.com  
+>     https://github.com
+<br> (saves screenshot as *..\screenshots\https_github.com_.png* with 1280p width and full page height)
 
-(saves screenshot as *..\screenshots\https_github.com_.png* with 1280p width and full page height)
+>     txt,pdf;https://www.bbc.co.uk/news
+<br> (saves two screenshots of TXT and PDF formats in the same directory)
 
->     txt,pdf;https://www.bbc.co.uk/news  
+>     https://hp.com/;jpg,Lpdf;1024*768
+<br> (saves part of the page as JPG screenshot with a resolution of 1024*768, and the whole page as PDF screenshot in landscape orientation)
 
-(saves two screenshots of TXT and PDF formats in the same directory)
-
->     https://hp.com/;jpg,Lpdf;1024*768  
-
-(saves part of the page as JPG screenshot with a resolution of 1024*768, and the whole page as PDF screenshot in landscape orientation)
-
->     1920*full;"C:\My Screenshots\123.*";https://www.ebay.com/;png  
-
-(saves PNG screenshot with 1920p width and full page height in the *C:\My Screenshots* directory with the name *123.png*)
+>     1920*full;"C:\My Screenshots\123.*";https://www.ebay.com/;png
+<br> (saves PNG screenshot with 1920p width and full page height in the *C:\My Screenshots* directory with the name *123.png*)
 
 
 
