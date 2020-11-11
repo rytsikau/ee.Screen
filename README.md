@@ -1,6 +1,6 @@
 # ee.Screen
 
-This script allows you to take screenshots of web pages according to a list of URLs. Several formats are supported - JPG, PDF, PNG and TXT.
+This script takes screenshots of web pages according to a list of URLs. Supports various resolutions and multiple formats - JPG, PDF, PNG and TXT.
 
 ### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20201108.zip)
 
@@ -10,7 +10,7 @@ This script allows you to take screenshots of web pages according to a list of U
 
 To run the script, you need to install the NodeJS framework and Google Chrome Puppeteer. To install NodeJS, visit page [nodejs.org](https://nodejs.org). To install Puppeteer, after NodeJS is installed, open a Windows command prompt and type
 
-**`     npm install --save puppeteer     `**
+**`npm install --save puppeteer`**
 
 
 
@@ -27,11 +27,11 @@ To run the script, you need to install the NodeJS framework and Google Chrome Pu
 
 The url list file must be encoded with any Unicode type as long as it contains non-latin letters. Run from Windows command line:
 
-**`     node "c:\path\to\ee.screen.js" "c:\path\to\url\list\file.txt"     `**
+**`node "c:\path\to\ee.screen.js" "c:\path\to\url\list\file.txt"`**
 
 The file line format is as follows:
 
-**`     url;"path\to\screenshots\screenshotFilename.*";width*height;commaSeparatedFormats     `**
+**`url;"path\to\screenshots\screenshotFilename.*";width*height;commaSeparatedFormats`**
 
 All values except 'url' are optional, default values are:
 
@@ -86,7 +86,7 @@ Examples:
 
 ## Tags
 
-automated-screenshot bulk-screenshot google-chrome-puppeteer puppeteer screenshots url-list-screenshot webpage-screenshot webpage-screenshot-jpg webpage-screenshot-pdf webpage-screenshot-png webpage-screenshot-txt
+automated batch bulk jpg list multiple pdf png screenshots snapshots urls webpages
 
 
 
