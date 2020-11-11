@@ -1,7 +1,7 @@
 /***************************************************************************************************
 ee.Screen // version 20201108
 Takes screenshots of web pages according to a list of URLs
-Several formats are supported - JPG, PDF, PNG and TXT
+Supports various resolutions and multiple formats - JPG, PDF, PNG and TXT
 For more info see file *readme.md*
 ***************************************************************************************************/
 
