@@ -88,11 +88,5 @@ Examples:
 
 automated batch bulk jpg list multiple pdf png screenshots snapshots urls webpages
 
-
-
-## Author
-
-[(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
-
 ---
-[[program page]](https://rytsikau.github.io/ee.Screen) [[start page]](https://rytsikau.github.io)
+[[program page]](https://rytsikau.github.io/ee.Screen) [[start page]](https://rytsikau.github.io) [[author e-mail]](mailto:y.rytsikau@gmail.com)
