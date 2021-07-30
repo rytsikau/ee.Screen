@@ -1,6 +1,6 @@
 # ee.Screen
 
-This script takes screenshots of web pages according to a list of URLs. Supports various resolutions and multiple formats - JPG, PDF, PNG and TXT.
+This script takes screenshots of web pages according to the list of URLs. Supports various resolutions and multiple formats - JPG, PDF, PNG and TXT.
 
 ### [>> download version 20201108](https://github.com/rytsikau/ee.Screen/raw/master/ee.Screen_20201108.zip)
 
